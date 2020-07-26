@@ -1,4 +1,19 @@
 {
-  "name": "webpack-intens",
-  "version": "1.0"
+  "name": "webpack-intensive",
+  "version": "1.0.0",
+  "description": "studuy configuration webpack 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uryashnik/my-webpack.git"
+  },
+  "author": "uryashnik@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uryashnik/my-webpack/issues"
+  },
+  "homepage": "https://github.com/uryashnik/my-webpack#readme"
 }
